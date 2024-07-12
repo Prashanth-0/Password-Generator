@@ -1,4 +1,8 @@
 # Password-Generator
+
+![Static Badge](https://img.shields.io/badge/Downloads-blue)
+
+
 Create strong and secure passwords effortlessly with  Python Password Generator script. Choose from predefined complexity levels or customize your criteria, including digits, lowercase, uppercase, and special characters. Generate single or multiple passwords quickly, with options to save them to a file for easy access and management.
 
 ## Features
