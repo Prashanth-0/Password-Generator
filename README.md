@@ -1,7 +1,6 @@
 # Password-Generator
 
-![Static Badge](https://img.shields.io/badge/Downloads-blue)
-
+![Downloads](https://img.shields.io/endpoint?url=https://github-release-downloads-badge.vercel.app/api/Prashanth-0/Password-Generator/latest)
 
 Create strong and secure passwords effortlessly with  Python Password Generator script. Choose from predefined complexity levels or customize your criteria, including digits, lowercase, uppercase, and special characters. Generate single or multiple passwords quickly, with options to save them to a file for easy access and management.
 
